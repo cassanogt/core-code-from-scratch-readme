@@ -40,7 +40,7 @@ A. [2022 04 05 (Tuesday)](#2022-04-05-Tuesday)
 
 ## 2022 04 05 (Tuesday)
 
-### 1.	Interpreted And Compiled Programming Languages
+### 1. Interpreted And Compiled Programming Languages
 
 A resume about them:
 
@@ -84,7 +84,7 @@ Disadvantages of interpreted languages
 
 
 
-### 2. 	Is Java compiled or interpreted, or both?
+### 2. Is Java compiled or interpreted, or both?
 Java is a compiled and interpreted language, because is first compiled into bytecode which JRE can understand. ByteCode is then interpreted by the JVM making it as interpreted language.
 
 
@@ -104,11 +104,11 @@ Java is a compiled and interpreted language, because is first compiled into byte
 	
 ## 2022 04 06 (Wednesday)
 
-### 1.	Your date of birth in the matrix?
+### 1. Your date of birth in the matrix?
 
 I was born in 1978 for that my binaria year is 11110111010
 
-### 2.	MIPS
+### 2. MIPS
 
 ## 2022 04 07 (Thursday)
 
