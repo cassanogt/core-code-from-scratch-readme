@@ -46,3 +46,18 @@ Disadvantages of interpreted languages
 
 2. 	Is Java compiled or interpreted, or both?
 Java is a compiled and interpreted language, because is first compiled into bytecode which JRE can understand. ByteCode is then interpreted by the JVM making it as interpreted language.
+
+
+3. Pseudocode currency converter
+
+Starting point: START
+set CostBitcoin
+webiste: visite https://usd.es.currencyrate.today/btc and update the cost of the bitcoin
+set AmountDollars
+set ConvertDollars 
+Write: Ask about amount to convert
+Read: Input: insert a amount
+set amountDollars = Input
+ConvertDollars = CostBitcoin * AmountDollars
+write: the amount is in BTC
+End Point.
