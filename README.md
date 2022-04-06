@@ -5,11 +5,12 @@
 
 ## Index
 
-1. [2022 04 05 (Tuesday)](##2022 04 05 (Tuesday))
-	1. [Interpreted And Compiled Programming Languages](### 1. Interpreted And Compiled Programming Languages)
-	2. [Is Java compiled or interpreted, or both?](### 2. Is Java compiled or interpreted, or both?)
-	3. [3. Pseudocode currency converter](### 3. Pseudocode currency converter)
-	
+a. [2022 04 05 (Tuesday)](#2022 04 05 (Tuesday))
+	1. [Interpreted And Compiled Programming Languages](##1. Interpreted And Compiled Programming Languages)
+	2. [Is Java compiled or interpreted, or both?](#2. Is Java compiled or interpreted, or both?)
+	3. [3. Pseudocode currency converter](#3. Pseudocode currency converter)
+
+
 ## 2022 04 05 (Tuesday)
 
 ### 1.	Interpreted And Compiled Programming Languages
