@@ -16,26 +16,50 @@
 	1. [Print special numbers](#1-Print-special-numbers)
 	2. [Bad Code](#2-Bad-Code)
 	3. [Bad Code 2](#3-Bad-code-2)
-D. [2022 04 08 (Friday)](#2022-04-08-Friday)
+4. [2022 04 08 (Friday)](#2022-04-08-Friday)
 
 
  <h2>Week 2</h2>
 
 ## Index
 
-A. [2022 04 05 (Tuesday)](#2022-04-05-Tuesday)
-	1. [Interpreted And Compiled Programming Languages](##1-Interpreted-And-Compiled-Programming-Languages)
+1. [2022 04 18 (Monday)](#2022-04-18-Monday)
+	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
 	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
 	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
+1. [2022 04 19 (Tuesday)](#2022-04-19-Tuesday)
+	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
+	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
+	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
+2. [2022 04 20 (Wednesday)](#2022-04-20-Wednesday)
+	1. [Your date of birth in the matrix](#1-Your-date-of-birth-in-the-matrix)
+	2. [MIPS](#2-MIPS)
+3. [2022 04 21 (Thursday)](#2022-04-21-Thursday)
+	1. [Print special numbers](#1-Print-special-numbers)
+	2. [Bad Code](#2-Bad-Code)
+	3. [Bad Code 2](#3-Bad-code-2)
+4. [2022 04 22 (Friday)](#2022-04-22-Friday)
 
 <h2>Week 3</h2>
 
 ## Index
 
-A. [2022 04 05 (Tuesday)](#2022-04-05-Tuesday)
-	1. [Interpreted And Compiled Programming Languages](##1-Interpreted-And-Compiled-Programming-Languages)
+1. [2022 04 25 (Monday)](#2022-04-25-Monday)
+	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
 	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
 	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
+1. [2022 04 26 (Tuesday)](#2022-04-26-Tuesday)
+	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
+	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
+	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
+2. [2022 04 27 (Wednesday)](#2022-04-27-Wednesday)
+	1. [Your date of birth in the matrix](#1-Your-date-of-birth-in-the-matrix)
+	2. [MIPS](#2-MIPS)
+3. [2022 04 28 (Thursday)](#2022-04-28-Thursday)
+	1. [Print special numbers](#1-Print-special-numbers)
+	2. [Bad Code](#2-Bad-Code)
+	3. [Bad Code 2](#3-Bad-code-2)
+4. [2022 04 29 (Friday)](#2022-04-29-Friday)
 
 
 ## 2022 04 05 (Tuesday)
