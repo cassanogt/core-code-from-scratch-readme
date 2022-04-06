@@ -1,6 +1,8 @@
 # core-code-from-scratch-readme
 
-1.	Interpreted And Compiled Programming Languages
+## 2022 04 05
+
+### 1.	Interpreted And Compiled Programming Languages
 
 A resume about them:
 
@@ -44,20 +46,20 @@ Disadvantages of interpreted languages
 
 
 
-2. 	Is Java compiled or interpreted, or both?
+### 2. 	Is Java compiled or interpreted, or both?
 Java is a compiled and interpreted language, because is first compiled into bytecode which JRE can understand. ByteCode is then interpreted by the JVM making it as interpreted language.
 
 
-3. Pseudocode currency converter
+### 3. Pseudocode currency converter
 
-Starting point: START
-set CostBitcoin
-webiste: visite https://usd.es.currencyrate.today/btc and update the cost of the bitcoin
-set AmountDollars
-set ConvertDollars 
-Write: Ask about amount to convert
-Read: Input: insert a amount
-set amountDollars = Input
-ConvertDollars = CostBitcoin * AmountDollars
-write: the amount is in BTC
-End Point.
+	a.	Starting point: START
+	b.	Set CostBitcoin
+		webiste: visite https://usd.es.currencyrate.today/btc and update the cost of the bitcoin
+	c.	Set AmountDollars
+	d.	Set ConvertDollars 
+	e.	Write: Ask about amount to convert
+	f.	Read: Input: insert a amount
+	g.	Set AmountDollars = Input
+	h.	ConvertDollars = CostBitcoin * AmountDollars
+	i.	Write: the AmountDollars is in BTC
+	j.	End Point.
