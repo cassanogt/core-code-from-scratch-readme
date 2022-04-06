@@ -1,6 +1,7 @@
 # core-code-from-scratch-readme
+# Week 1
 
-## 2022 04 05
+## 2022 04 05 (Tuesday)
 
 ### 1.	Interpreted And Compiled Programming Languages
 
