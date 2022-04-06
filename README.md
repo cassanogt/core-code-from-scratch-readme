@@ -1,5 +1,6 @@
-# core-code-from-scratch-readme
-# 2022 April - June 
+<h1 align="center">core-code-from-scratch-readme</h1>
+<h1 align="center">2022 April - June</h1>
+ 
 
 ## Index
 
