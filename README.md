@@ -101,3 +101,9 @@ Java is a compiled and interpreted language, because is first compiled into byte
 	h.	ConvertDollars = CostBitcoin * AmountDollars
 	i.	Write: the AmountDollars is in BTC
 	j.	End Point.
+	
+## 2022 04 06 (Wednesday)
+
+## 2022 04 07 (Thursday)
+
+## 2022 04 08 (Friday)
