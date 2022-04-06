@@ -5,14 +5,14 @@
 
 ## Index
 
-A. [2022 04 05 (Tuesday)](#2022-04-05-Tuesday)
+1. [2022 04 05 (Tuesday)](#2022-04-05-Tuesday)
 	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
 	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
 	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
-B. [2022 04 06 (Wednesday)](#2022-04-06-Wednesday)
+2. [2022 04 06 (Wednesday)](#2022-04-06-Wednesday)
 	1. [Your date of birth in the matrix](#1-Your-date-of-birth-in-the-matrix)
 	2. [MIPS](#2-MIPS)
-C. [2022 04 07 (Thursday)](#2022-04-07-Thursday)
+3. [2022 04 07 (Thursday)](#2022-04-07-Thursday)
 	1. [Print special numbers](#1-Print-special-numbers)
 	2. [Bad Code](#2-Bad-Code)
 	3. [Bad Code 2](#3-Bad-code-2)
