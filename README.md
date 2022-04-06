@@ -104,6 +104,12 @@ Java is a compiled and interpreted language, because is first compiled into byte
 	
 ## 2022 04 06 (Wednesday)
 
+### 1.	Your date of birth in the matrix?
+
+I was born in 1978 for that my binaria year is 11110111010
+
+### 2.	MIPS
+
 ## 2022 04 07 (Thursday)
 
 ## 2022 04 08 (Friday)
