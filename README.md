@@ -1,9 +1,9 @@
 <h1 align="center">core-code-from-scratch-readme</h1>
 <h1 align="center">2022 April - June</h1>
  
+ ## Index
+ 
  <h2>Week 1</h2>
-
-## Index
 
 1. [2022 04 05 (Tuesday)](#2022-04-05-Tuesday)
 	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
@@ -21,7 +21,6 @@
 
  <h2>Week 2</h2>
 
-## Index
 
 1. [2022 04 18 (Monday)](#2022-04-18-Monday)
 	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
@@ -42,7 +41,6 @@
 
 <h2>Week 3</h2>
 
-## Index
 
 1. [2022 04 25 (Monday)](#2022-04-25-Monday)
 	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
