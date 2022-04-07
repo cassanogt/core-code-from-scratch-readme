@@ -138,43 +138,43 @@ Base on the guide and the examples of the low-level language, create the followi
 
 Script
 
-[].data </br>
-[]        number1: .asciiz "\nAdd First number: \n"  </br>
-[]        number2: .asciiz "\nAdd Second number: \n"  </br>
-[]        result_message: .asciiz "\nthe sum is: "  </br>
-5  .text
-6        main:
-7              li $v0, 4
-8              la $a0, number1
-9              syscall
-10              
-11              li $v0, 5
-12              syscall
-13              
-14              move $t0, $v0
-15              
-16              li $v0, 4
-17              la $a0, number2
-18              syscall
-19
-20              li $v0, 5
-21              syscall
-22
-23              move $t1, $v0
-24
-25              li $v0, 1
-26              move $a0, $t0
-27              syscall
-28              
-29              add $t2, $t0, $t1
-30              
-31              li $v0, 4
-32              la $a0 result_message
-33              syscall
-34
-35              li $v0, 1
-36              move $a0, $t2
-37              syscall
+.data </br>
+        number1: .asciiz "\nAdd First number: \n"  </br>
+        number2: .asciiz "\nAdd Second number: \n"  </br>
+        result_message: .asciiz "\nthe sum is: "  </br>
+  .text </br>
+        main: </br>
+              li $v0, 4 </br>
+              la $a0, number1 </br>
+              syscall </br>
+               </br>
+              li $v0, 5 </br>
+              syscall </br>
+               </br>
+              move $t0, $v0 </br>
+               </br>
+              li $v0, 4 </br>
+              la $a0, number2 </br>
+              syscall </br>
+ </br>
+              li $v0, 5 </br>
+              syscall </br>
+ </br>
+              move $t1, $v0 </br>
+ </br>
+              li $v0, 1 </br>
+              move $a0, $t0 </br>
+              syscall </br>
+               </br>
+              add $t2, $t0, $t1 </br>
+               </br>
+              li $v0, 4 </br>
+              la $a0 result_message </br>
+              syscall </br>
+ </br>
+              li $v0, 1 </br>
+              move $a0, $t2 </br>
+              syscall </br>
 
 Create a program that display your name
 
