@@ -136,7 +136,7 @@ Base on the guide and the examples of the low-level language, create the followi
 
 	a. Create a program to add two numbers given by the user
 
-Script
+### Script
 
 .data </br>
         number1: .asciiz "\nAdd First number: \n"  </br>
@@ -178,15 +178,17 @@ Script
 
 Create a program that display your name
 
-Script
+### Script
 
-.data
-        message: .asciiz "\nHeber Daniel Sánchez Hernández\n"
-  .text
-        main:
-              li $v0, 4
-              la $a0, message
-              syscall
+.data </br>
+        message: .asciiz "\nHeber Daniel Sánchez Hernández\n" </br>
+  .text </br>
+        main: </br>
+              li $v0, 4 </br>
+              la $a0, message </br>
+              syscall </br>
+ </br>
+
 
 
 ## 2022 04 07 (Thursday)
