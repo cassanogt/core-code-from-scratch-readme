@@ -128,13 +128,13 @@ Java is a compiled and interpreted language, because is first compiled into byte
 
 ### 1. Your date of birth in the matrix?
 
-I was born in 1978 for that my binaria year is 11110111010
+I was born in 1978 for that reason my binary birth year is 11110111010
 
 ### 2. MIPS
 
 Base on the guide and the examples of the low-level language, create the following
 
-Create a program to add two numbers given by the user
+	a. Create a program to add two numbers given by the user
 
 Script
 
