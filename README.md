@@ -132,6 +132,64 @@ I was born in 1978 for that my binaria year is 11110111010
 
 ### 2. MIPS
 
+Base on the guide and the examples of the low-level language, create the following
+
+Create a program to add two numbers given by the user
+
+Script
+
+.data
+        number1: .asciiz "\nIngrese el primer numero: \n"
+        number2: .asciiz "\nIngrese el segundo numero: \n"
+        result_message: .asciiz "\nEl resultado es: "
+  .text
+        main:
+              li $v0, 4
+              la $a0, number1
+              syscall
+              
+              li $v0, 5
+              syscall
+              
+              move $t0, $v0
+              
+              li $v0, 4
+              la $a0, number2
+              syscall
+
+              li $v0, 5
+              syscall
+
+              move $t1, $v0
+
+              li $v0, 1
+              move $a0, $t0
+              syscall
+              
+              add $t2, $t0, $t1
+              
+              li $v0, 4
+              la $a0 result_message
+              syscall
+
+              li $v0, 1
+              move $a0, $t2
+              syscall
+
+
+Create a program that display your name
+
+Script
+
+.data
+        message: .asciiz "\nHeber Daniel Sánchez Hernández\n"
+  .text
+        main:
+              li $v0, 4
+              la $a0, message
+              syscall
+
+
 ## 2022 04 07 (Thursday)
 
 ## 2022 04 08 (Friday)
