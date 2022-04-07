@@ -134,7 +134,7 @@ I was born in 1978 for that reason my binary birth year is 11110111010
 
 Base on the guide and the examples of the low-level language, create the following
 
-	a. Create a program to add two numbers given by the user
+	1. Create a program to add two numbers given by the user
 
 ### Script
 
@@ -176,7 +176,7 @@ Base on the guide and the examples of the low-level language, create the followi
               move $a0, $t2 </br>
               syscall </br>
 
-Create a program that display your name
+	2. Create a program that display your name
 
 ### Script
 
