@@ -193,4 +193,80 @@ Base on the guide and the examples of the low-level language, create the followi
 
 ## 2022 04 07 (Thursday)
 
+### 1. Print Special Numbers
+
+In this exercise you must use an iterative flow control to be able to print all the even numbers in the range of numbers from 0 to 100. Remember that you should not print each number, you should use a flow control structure to perform the exercise
+
+Script <br>
+ <br>
+let str = ''; <br>
+ <br>
+for (let i = 1; i < 100; i+= 2) { <br>
+    str = str + i +"\n"; <br>
+ <br>
+} <br>
+ <br>
+console.log(str); <br>
+
+### 2. Bad Code
+
+The code shown below is not working in the right way, as a task you must find the error made by the developer who programmed this code and correct it, for this exercise you must explain what the error is and place the correct code
+
+var cond = false; <br>
+ <br>
+if ((cond = true)) { <br>
+  console.log('The cond variable is true'); <br>
+} else { <br>
+  console.log('The cond variable is false'); <br>
+} <br>
+ <br>
+
+the programer inicialized the variable cond like a boolean, and this variable does not compared with aritmetic comparators. 
+is a rule for ECMAScript to use 3 = in these cases.
+
+var cond = false; <br>
+ <br>
+if ((cond == true)) { <br>
+  console.log('The cond variable is true'); <br>
+} else { <br>
+  console.log('The cond variable is false'); <br>
+} <br>
+ <br>
+
+### 3. Bad Code 2
+
+You must create the code that follows the following logic, if the given number is 100, take this number as special and show the following message: "This is a special number!", but if the number is less than 1000, multiple of 10 and different from 100, you must show the following message: "This number is almost special". if none of the given conditions are met show the following message: "Just a regular number". Another developer was trying to program the logic, but apparently couldn't, you need to fix the code to work properly
+
+var n = 100; <br>
+ <br>
+if (n == 100) { <br>
+  console.log('This is a special number!'); <br>
+} <br>
+if (n < 1000) { <br>
+  console.log(''); <br>
+} else { <br>
+  console.log('Just a regular number'); <br>
+} <br>
+if (n % 10 == 0) { <br>
+  console.log('This number is multiple of 10'); <br>
+} <br>
+ <br>
+ 
+ Before I fixed the code this work properly, the code is the next
+ 
+ var n = 100; <br>
+ <br>
+if (n == 100) { <br>
+  console.log('This is a special number!'); <br>
+} <br>
+else if (n < 1000 && n % 10 == 0) { <br>
+  console.log('This number is almost special'); <br>
+}  <br>
+else { <br>
+  console.log('Just a regular number'); <br>
+} <br>
+
+### 4. Git Course
+
+
 ## 2022 04 08 (Friday)
