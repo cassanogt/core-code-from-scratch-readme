@@ -201,7 +201,7 @@ Script <br>
  <br>
 let str = ''; <br>
  <br>
-for (let i = 1; i < 100; i+= 2) { <br>
+for (let i = 0; i < 100; i+= 2) { <br>
     str = str + i +"\n"; <br>
  <br>
 } <br>
