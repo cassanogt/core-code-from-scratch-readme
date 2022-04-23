@@ -64,6 +64,7 @@
 	3. [Bad Code 2](#3-Bad-code-2)
 4. [2022 04 29 (Friday)](#2022-04-29-Friday)
 
+# WEEK 1
 
 ## 2022 04 05 (Tuesday)
 
@@ -277,6 +278,8 @@ else { <br>
 ## 2022 04 08 (Friday)
 
 
+
+# WEEK 2
 
 ## 2022 04 19 (Tuesday)
 
