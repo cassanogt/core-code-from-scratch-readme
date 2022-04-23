@@ -281,7 +281,9 @@ else { <br>
 
 # WEEK 2
 
+
 ## 2022 04 19 (Tuesday)
+
 
 ### 1. Multiply Exercise
 
@@ -291,7 +293,18 @@ function multiply(a, b){ <br>
 } <br>
  <br>
 
+
 ### 2. ASCII Total Exercise
+
+Script <br> 
+function uniTotal (string) { <br>
+let suma=0; <br>
+for (let i = 0; i < string.length; i++){ <br>
+   suma = suma + string.charCodeAt(i);   <br>
+}// total up dem unicodes! <br>
+  return suma; <br>
+} <br>
+
 
 ### 3. Char From ASCII Value Exercise
 
