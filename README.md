@@ -23,20 +23,25 @@
 
 
 1. [2022 04 18 (Monday)](#2022-04-18-Monday)
-	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
-	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
-	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
+	1. [Follow the github course](#1-Follow-the-github-course)
+	2. [Create an account in Codewars](#2-Create-an-account-in-Codewars)
+	3. [Read about if...else, for, while, functions](#3-Read-about-if...else,-for,-while,-functions)
 1. [2022 04 19 (Tuesday)](#2022-04-19-Tuesday)
-	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
-	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
-	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
+	1. [Multiply exercise](#1-Multiply-Exercise)
+	2. [ASCII Total exercise](#2-ASCII-Total-Exercise)
+	3. [Char From ASCII Value exercise](#3-Char-From-ASCII-Value-Exercise)
+	4. [Binary Addition exercise](#3-Binary-Adittion-Exercise)
+	5. [Student's Final Grade exercise](#3-Student's-Final-Grade-Exercise)
 2. [2022 04 20 (Wednesday)](#2022-04-20-Wednesday)
-	1. [Your date of birth in the matrix](#1-Your-date-of-birth-in-the-matrix)
-	2. [MIPS](#2-MIPS)
+	1. [Holliday VIII - Duty Free exercise](#1-Holliday-VIII-Duty-Free-Exercise)
+	2. [Twice As Old exercise](#2-Twice-As-Old-Exercise)
+	3. [Valid Spacing exercise](#3-Valid-Spacing-Exercise)
+	4. [Fake Binary exercise](#4-Fake-Binary-Exercise)
 3. [2022 04 21 (Thursday)](#2022-04-21-Thursday)
-	1. [Print special numbers](#1-Print-special-numbers)
-	2. [Bad Code](#2-Bad-Code)
-	3. [Bad Code 2](#3-Bad-code-2)
+	1. [Remove All Exclamation Marks From The End of Sentence exercise](#1-Remove-All-Exclamation-Marks-From-The-End-Of-Sentence-Exercise)
+	2. [Vowel Remover exercise](2-Vowel-Remover-Exercise)
+	3. [Rock Paper Scissors! exercise](#3-Rock-Paper-Scissors!-Exercise)
+	4. [Persistent Bugger exercise](#4-Persistent Bugger-Exercise)
 4. [2022 04 22 (Friday)](#2022-04-22-Friday)
 
 <h2>Week 3</h2>
@@ -270,3 +275,49 @@ else { <br>
 
 
 ## 2022 04 08 (Friday)
+
+
+
+## 2022 04 19 (Tuesday)
+
+### 1. Multiply Exercise
+
+Script <br>
+function multiply(a, b){ <br>
+  return a * b; <br>
+} <br>
+ <br>
+
+### 2. ASCII Total Exercise
+
+### 3. Char From ASCII Value Exercise
+
+### 4. Binary Addition Exercise
+
+### 5. Student's Final Grade Exercise
+
+
+
+## 2022 04 20 (Wednesday)
+
+### 1. Holiday VIII - Duty Free Exercise
+
+
+### 2. Twice As Old Exercise
+
+### 3. Valid Spacing Exercise
+
+### 4. Fake Binary Exercise 
+
+
+
+## 2022 04 21 (Thursday)
+
+### 1. Remove All Exclamation Marks From The End Of Sentence Exercise
+
+
+### 2. Vowel Remover Exercise
+
+### 3. Rock Paper Scissors! Exercise
+
+### 4. Persistent Bugger Exercise
