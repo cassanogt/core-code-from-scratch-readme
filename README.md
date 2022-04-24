@@ -317,6 +317,13 @@ function getChar(c){ <br>
 
 ### 4. Binary Addition Exercise
 
+Script <br>
+function addBinary(a,b) { <br>
+  let addBinary = a + b; <br>
+return addBinary.toString(2); <br>
+} <br>
+
+
 ### 5. Student's Final Grade Exercise
 
 
