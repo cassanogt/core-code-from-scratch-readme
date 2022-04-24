@@ -308,6 +308,13 @@ for (let i = 0; i < string.length; i++){ <br>
 
 ### 3. Char From ASCII Value Exercise
 
+Script <br>
+Char From ASCII Value <br>
+function getChar(c){ <br>
+  return String.fromCharCode(c);   <br>
+} <br>
+
+
 ### 4. Binary Addition Exercise
 
 ### 5. Student's Final Grade Exercise
