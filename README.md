@@ -326,6 +326,18 @@ return addBinary.toString(2); <br>
 
 ### 5. Student's Final Grade Exercise
 
+Script <br>
+function finalGrade (exam, projects) { <br>
+ let result = 0; <br>
+    if( exam > 90 || projects > 10){ <br>
+        result = 100; <br>
+    } else if( exam > 75 && projects >= 5){ <br>
+        result = 90; <br>
+    } else if( exam > 50 && projects >= 2){ <br>
+        result = 75; <br>
+    }  <br>
+  return result; <br>
+} <br>
 
 
 ## 2022 04 20 (Wednesday)
