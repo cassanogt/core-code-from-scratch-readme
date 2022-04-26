@@ -344,13 +344,96 @@ function finalGrade (exam, projects) { <br>
 
 ### 1. Holiday VIII - Duty Free Exercise
 
+Script <br>
+function dutyFree(normPrice, discount, hol){ <br>
+let dutyPrice = Math.floor(hol / (normPrice * (discount/100))) ; <br>
+return dutyPrice; <br>
+} <br>
+
 
 ### 2. Twice As Old Exercise
 
+Script <br>
+function twiceAsOld(dadYearsOld, sonYearsOld) { <br>
+ let diferencia = Math.abs(dadYearsOld - sonYearsOld); <br>
+ let sonYearsOldTwice = sonYearsOld * 2; <br>
+ let haceEstosAnios = 0; <br>
+ if (diferencia >= sonYearsOldTwice){ <br>
+ haceEstosAnios = (Math.abs(dadYearsOld - sonYearsOldTwice)); <br>
+} else { <br>
+haceEstosAnios = (Math.abs(dadYearsOld - sonYearsOldTwice)); <br>
+} <br>
+ return haceEstosAnios; <br>
+} <br>
+
+
 ### 3. Valid Spacing Exercise
+
+Script <br>
+function validSpacing(s) { <br>
+ if(s.charAt(0) === ' ' || s.charAt(s.length - 1) === ' ') { // como <br>
+     return false; <br>
+  } <br>
+   <br>
+  for(let i = 0; i < s.length; i++) { <br>
+    if(s.charAt(i) === ' '){ // es el caracter que estamos viendo igual a un espacio? <br>
+      if(i != 0 && s.charAt(i-1) === ' ') { <br>
+        return false; <br>
+      } <br>
+      if(i != (s.length - 1) && s.charAt(i+1) === ' ') { <br>
+        return false; <br>
+      } <br>
+    } <br>
+    // .... <br>
+  } <br>
+   <br>
+  return true; <br>
+} <br>
+
 
 ### 4. Fake Binary Exercise 
 
+Script <br>
+function fakeBin(x){ <br>
+  let largoString=x.length; <br>
+    for (let index1 = 0; index1 < largoString; index1++){ <br>
+    let numero1 = x.charAt(index1); <br>
+    if (numero1 === "1"){ x = x.replace(x.charAt(index1), "0");  <br>
+  } <br>
+    } for (let index2 = 0; index2 < largoString; index2++){ <br>
+    let numero2 = x.charAt(index2); <br>
+    if (numero2 === "2"){ x = x.replace(x.charAt(index2), "0");  <br>
+  }} <br>
+  for (let index3 = 0; index3 < largoString; index3++){ <br>
+    let numero3 = x.charAt(index3); <br>
+    if (numero3 === "3"){ x = x.replace(x.charAt(index3), "0");  <br>
+  }} <br>
+  for (let index4 = 0; index4 < largoString; index4++){ <br>
+    let numero4 = x.charAt(index4); <br>
+    if (numero4 === "4"){ x = x.replace(x.charAt(index4), "0");  <br>
+  }} <br>
+  for (let index5 = 0; index5 < largoString; index5++){ <br>
+    let numero5 = x.charAt(index5); <br>
+    if (numero5 === "5"){ x = x.replace(x.charAt(index5), "1");  <br>
+  }} <br>
+  for (let index6 = 0; index6 < largoString; index6++){ <br>
+    let numero6 = x.charAt(index6); <br>
+    if (numero6 === "6"){ x = x.replace(x.charAt(index6), "1");  <br>
+  }} <br>
+  for (let index7 = 0; index7 < largoString; index7++){ <br>
+    let numero7 = x.charAt(index7); <br>
+    if (numero7 === "7"){ x = x.replace(x.charAt(index7), "1");  <br>
+  }} <br>
+  for (let index8 = 0; index8 < largoString; index8++){ <br>
+    let numero8 = x.charAt(index8); <br>
+    if (numero8 === "8"){ x = x.replace(x.charAt(index8), "1");  <br>
+  }} <br>
+  for (let index9 = 0; index9 < largoString; index9++){ <br>
+    let numero9 = x.charAt(index9); <br>
+    if (numero9 === "9"){ x = x.replace(x.charAt(index9), "1");  <br>
+  }} <br>
+  return(x); <br>
+} <br>
 
 
 ## 2022 04 21 (Thursday)
