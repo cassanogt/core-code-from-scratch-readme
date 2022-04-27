@@ -48,20 +48,21 @@
 
 
 1. [2022 04 25 (Monday)](#2022-04-25-Monday)
-	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
-	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
-	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
+	1. [Who likes It exercise?](#1-Who-Likes-It?-exercise)
+	2. [Bit Counting exercise](#2-Bit-Counting-exercise)
+	3. [Your Order, Please exercise](#3-Your-Order,-Please-exercise)
 1. [2022 04 26 (Tuesday)](#2022-04-26-Tuesday)
-	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
-	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
-	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
+	1. [Simple Pig Latin](#1-Simple-Pig-Latin-exercise)
+	2. [Counting Duplicates exercise](#2-Counting-Duplicates-exercise)
+	3. [Decode The Morse Code exercise](#3-Decode-The-Morse-Code-exercise)
 2. [2022 04 27 (Wednesday)](#2022-04-27-Wednesday)
-	1. [Your date of birth in the matrix](#1-Your-date-of-birth-in-the-matrix)
-	2. [MIPS](#2-MIPS)
+	1. [Valid Parentheses exercise](#1-Valid-Parenthesis-exercise)
+	2. [Convert String To Camel Case exercise](#2-Convert-String-To-Camel-Case-exercise)
+	3. [Unique In Order exercise](#3-Unique-In-Order-exercise)
 3. [2022 04 28 (Thursday)](#2022-04-28-Thursday)
-	1. [Print special numbers](#1-Print-special-numbers)
-	2. [Bad Code](#2-Bad-Code)
-	3. [Bad Code 2](#3-Bad-code-2)
+	1. [Fold An Array exercise](#1-Fold-An-Array-exercise)
+	2. [Encrypt This! exercise](#2-Encrypt-This!-exercise)
+	3. [Completing my 1st Core Challenge](#3-Completing-My-1st-Core-Challenge)
 4. [2022 04 29 (Friday)](#2022-04-29-Friday)
 
 # WEEK 1
@@ -446,3 +447,45 @@ function fakeBin(x){ <br>
 ### 3. Rock Paper Scissors! Exercise
 
 ### 4. Persistent Bugger Exercise
+
+
+# WEEK 3
+
+## 2022 04 25 (Monday)
+
+### 1. Who Likes it? Exercise
+
+### 2. Bit Counting Exercise
+
+### 3. Your Order, Please Exercise
+
+
+## 2022 04 26 (Tuesday)
+
+### 1. Simple Pig Latin Exercise
+
+### 2. Counting Duplicates Exercise
+
+### 3. Decode The Morse Code Exercise
+
+
+## 2022 04 27 (Wednesday)
+
+### 1. Valid Parentheses Exercise
+
+### 2. Convert String To Camel Case Exercise
+
+### 3. Unique In Order Exercise
+
+
+
+## 2022 04 28 (Thursday)
+
+### 1. Fold An Array Exercise
+
+### 2. Encrypt This! Exercise
+
+### 3. Completing my 1st Core Challenge.
+
+
+
