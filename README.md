@@ -439,14 +439,52 @@ function fakeBin(x){ <br>
 
 ## 2022 04 21 (Thursday)
 
+
 ### 1. Remove All Exclamation Marks From The End Of Sentence Exercise
+
+Script <br>
+function remove(string) { <br>
+  return string.replace(/!+$/g, ''); <br>
+} <br>
 
 
 ### 2. Vowel Remover Exercise
 
+Script <br>
+function shortcut (string) { <br>
+  return string.replace(/[aeiou]/g, ''); <br>
+} <br>
+
+
 ### 3. Rock Paper Scissors! Exercise
 
+Script <br>
+const rps = (p1, p2) => { <br>
+  if (p1 === p2) return 'Draw!'; <br>
+  if (p1 === 'rock' && p2 === 'scissors') return 'Player 1 won!'; <br>
+  if (p1 === 'scissors' && p2 === 'paper') return 'Player 1 won!'; <br>
+  if (p1 === 'paper' && p2 === 'rock') return 'Player 1 won!'; <br>
+  return 'Player 2 won!'; <br>
+}; <br>
+
+
 ### 4. Persistent Bugger Exercise
+
+Script <br>
+function persistence(num) { <br>
+  let times = 0; <br>
+  let digits = []; <br>
+  while (num >= 10) { <br>
+    digits = num.toString().split(''); <br>
+    num = 1; <br>
+    for (let i = 0; i < digits.length; i++) { <br>
+      num *= digits[i]; <br>
+    } <br>
+    times++; <br>
+  } <br>
+  return times; <br>
+} <br>
+
 
 
 # WEEK 3
@@ -455,14 +493,51 @@ function fakeBin(x){ <br>
 
 ### 1. Who Likes it? Exercise
 
+Script <br>
+let message = ""; <br>
+  let large = names.length; <br>
+  if ( names.length === 0){ return "no one likes this";} <br>
+  else if (names.length === 1) { return names[0] + " likes this";} <br>
+  else if (names.length === 2) { return names[0] + " and " + names[1] + " like this";} <br>
+  else if (names.length === 3) { return names[0] + ", " + names[1] + " and " + names[2] + " like this";} <br>
+  else if (names.length > 3 ) { return names[0] + ", " + names[1] + " and " + (large - 2) + " others like this";}  <br>
+  }  <br>
+
+
 ### 2. Bit Counting Exercise
 
+Script <br>
+binary = n.toString(2); <br>
+  const myArray = binary.split(""); <br>
+  let suma = 0; <br>
+  for (let i = 0; i < myArray.length; i++) { <br>
+    if( myArray[i] === "1"){ suma = suma + parseInt(myArray[i])} <br>
+     <br>
+   } return suma;// Program Me <br>
+}; <br>
+
+
+
 ### 3. Your Order, Please Exercise
+
+Script <br>
+function order(words){ <br>
+  const myArray = words.split(" "); <br>
+for (let i = 0; i < myArray.length; i++ ) { <br>
+  myArray[i] = myArray[i] + i; <br>
+  words = myArray.join(" "); <br>
+ return words; <br>
+}} <br>
+ <br>
 
 
 ## 2022 04 26 (Tuesday)
 
+
 ### 1. Simple Pig Latin Exercise
+
+Script
+
 
 ### 2. Counting Duplicates Exercise
 
