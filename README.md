@@ -287,7 +287,7 @@ else { <br>
 
 
 ### 1. Multiply Exercise
-```javascript
+javascript
 Script <br>
 function multiply(a, b){ <br>
   return a * b; <br>
