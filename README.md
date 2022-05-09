@@ -535,8 +535,20 @@ for (let i = 0; i < myArray.length; i++ ) { <br>
 
 
 ### 1. Simple Pig Latin Exercise
-
+```Javascript
 Script
+function pigIt(str){
+  let arrStr = str.split(" ");
+  let newArray = [];
+  newArray = arrStr.map(function(element){
+    if(!element.match(/^[.,:!?]/)){
+      return (element.slice(1) + element.slice(0,1) + "ay");}
+    return element
+  });
+  let finalPig = newArray.join(" ");
+      return finalPig;
+    
+}
 
 
 ### 2. Counting Duplicates Exercise
