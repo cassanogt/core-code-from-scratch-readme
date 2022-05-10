@@ -204,75 +204,78 @@ Base on the guide and the examples of the low-level language, create the followi
 
 In this exercise you must use an iterative flow control to be able to print all the even numbers in the range of numbers from 0 to 100. Remember that you should not print each number, you should use a flow control structure to perform the exercise
 ```Javascript
-Script <br>
- <br>
-let str = ''; <br>
- <br>
-for (let i = 0; i <= 100; i+= 2) { <br>
-    str = str + i +"\n"; <br>
- <br>
-} <br>
- <br>
-console.log(str); <br>
+Script 
+let str = ''; 
+for (let i = 0; i <= 100; i+= 2) { 
+    str = str + i +"\n"; 
+} 
+
+console.log(str); 
 ```
 
 ### 2. Bad Code
 
 The code shown below is not working in the right way, as a task you must find the error made by the developer who programmed this code and correct it, for this exercise you must explain what the error is and place the correct code
 
-var cond = false; <br>
- <br>
-if ((cond = true)) { <br>
-  console.log('The cond variable is true'); <br>
-} else { <br>
-  console.log('The cond variable is false'); <br>
-} <br>
- <br>
+```Javascript
+Script
+var cond = false; 
+if ((cond = true)) { 
+  console.log('The cond variable is true'); 
+} else { 
+  console.log('The cond variable is false'); 
+} 
+```
 
 the programer inicialized the variable cond like a boolean, and this variable does not compared with aritmetic comparators. 
 is a rule for ECMAScript to use 3 = in these cases.
 
-var cond = false; <br>
- <br>
-if ((cond == true)) { <br>
-  console.log('The cond variable is true'); <br>
-} else { <br>
-  console.log('The cond variable is false'); <br>
-} <br>
- <br>
+```Javascript
+Script
+var cond = false; 
+if ((cond == true)) { 
+  console.log('The cond variable is true'); 
+} else { 
+  console.log('The cond variable is false'); 
+} 
+```
 
 ### 3. Bad Code 2
 
 You must create the code that follows the following logic, if the given number is 100, take this number as special and show the following message: "This is a special number!", but if the number is less than 1000, multiple of 10 and different from 100, you must show the following message: "This number is almost special". if none of the given conditions are met show the following message: "Just a regular number". Another developer was trying to program the logic, but apparently couldn't, you need to fix the code to work properly
 
-var n = 100; <br>
- <br>
-if (n == 100) { <br>
-  console.log('This is a special number!'); <br>
-} <br>
-if (n < 1000) { <br>
-  console.log(''); <br>
-} else { <br>
-  console.log('Just a regular number'); <br>
-} <br>
-if (n % 10 == 0) { <br>
-  console.log('This number is multiple of 10'); <br>
-} <br>
- <br>
+```Javascript
+\\Script
+var n = 100; 
+if (n == 100) { 
+  console.log('This is a special number!'); 
+} 
+if (n < 1000) { 
+  console.log(''); 
+} else { 
+  console.log('Just a regular number'); 
+} 
+if (n % 10 == 0) { 
+  console.log('This number is multiple of 10');
+} 
+``` 
  
  Before I fixed the code this work properly, the code is the next
  
- var n = 100; <br>
- <br>
-if (n == 100) { <br>
-  console.log('This is a special number!'); <br>
-} <br>
-else if (n < 1000 && n % 10 == 0) { <br>
-  console.log('This number is almost special'); <br>
-}  <br>
-else { <br>
-  console.log('Just a regular number'); <br>
-} <br>
+ ```Javascript
+ \\Script
+ var n = 100; 
+ 
+if (n == 100) { 
+  console.log('This is a special number!'); 
+} 
+else if (n < 1000 && n % 10 == 0) { 
+  console.log('This number is almost special'); 
+}  
+else { 
+  console.log('Just a regular number'); 
+} 
+```
 
 ### 4. Git Course
 
@@ -288,16 +291,16 @@ else { <br>
 
 
 ### 1. Multiply Exercise
-
-Script <br>
-function multiply(a, b){ <br>
-  return a * b; <br>
-} <br>
- <br>
+```Javascript
+\\ Script 
+function multiply(a, b){
+  return a * b;
+}
+```
 
 
 ### 2. ASCII Total Exercise
-
+```Javascript
 Script <br> 
 function uniTotal (string) { <br>
 let suma=0; <br>
@@ -306,16 +309,16 @@ for (let i = 0; i < string.length; i++){ <br>
 }// total up dem unicodes! <br>
   return suma; <br>
 } <br>
-
+```
 
 ### 3. Char From ASCII Value Exercise
-
+```javascript
 Script <br>
 Char From ASCII Value <br>
 function getChar(c){ <br>
   return String.fromCharCode(c);   <br>
 } <br>
-
+```
 
 ### 4. Binary Addition Exercise
 
