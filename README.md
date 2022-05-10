@@ -549,7 +549,7 @@ function pigIt(str){
       return finalPig;
     
 }
-Javascript```
+```
 
 ### 2. Counting Duplicates Exercise
 
