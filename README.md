@@ -203,7 +203,7 @@ Base on the guide and the examples of the low-level language, create the followi
 ### 1. Print Special Numbers
 
 In this exercise you must use an iterative flow control to be able to print all the even numbers in the range of numbers from 0 to 100. Remember that you should not print each number, you should use a flow control structure to perform the exercise
-
+```Javascript
 Script <br>
  <br>
 let str = ''; <br>
@@ -214,6 +214,7 @@ for (let i = 0; i <= 100; i+= 2) { <br>
 } <br>
  <br>
 console.log(str); <br>
+```
 
 ### 2. Bad Code
 
