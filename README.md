@@ -14,8 +14,8 @@
 	2. [MIPS exercise](#2-MIPS-exercise)
 3. [2022 04 07 Week Challenges(Thursday)](#2022-04-07-Week-Challenges-Thursday)
 	1. [Print special numbers exercise](#1-Print-special-numbers-exercise)
-	2. [Bad Code exercise](#2-Bad-Code exercise)
-	3. [Bad Code 2 exercise](#3-Bad-code-2 exercise)
+	2. [Bad Code exercise](#2-Bad-Code-exercise)
+	3. [Bad Code 2 exercise](#3-Bad-code-2-exercise)
 4. [2022 04 08 (Friday)](#2022-04-08-Friday)
 
 
