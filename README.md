@@ -1,8 +1,9 @@
 <h1 align="center">core-code-from-scratch-readme</h1>
 <h1 align="center">2022 April - June</h1>
   
- <h2>INDEX</h2>
- # WEEK 1
+<h2>INDEX</h2>
+
+# WEEK 1
 
 ##1. [2022 04 05 Week Challenges(Tuesday)](#2022-04-05-Tuesday)
 	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
