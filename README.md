@@ -41,7 +41,7 @@
 	1. [Remove All Exclamation Marks From The End of Sentence exercise](#1-Remove-All-Exclamation-Marks-From-The-End-Of-Sentence-Exercise)
 	2. [Vowel Remover exercise](2-Vowel-Remover-Exercise)
 	3. [Rock Paper Scissors! exercise](#3-Rock-Paper-Scissors!-Exercise)
-	4. [Persistent Bugger exercise](#4-Persistent Bugger-Exercise)
+	4. [Persistent Bugger exercise](#4-Persistent-Bugger-Exercise)
 5. [2022 04 22 (Friday)](#2022-04-22-Friday)
 
 
