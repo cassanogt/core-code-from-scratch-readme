@@ -1,75 +1,114 @@
 <h1 align="center">core-code-from-scratch-readme</h1>
 <h1 align="center">2022 April - June</h1>
- 
- ## Index
- 
- <h2>Week 1</h2>
+  
+ <h2>INDEX</h2>
+ # WEEK 1
 
-1. [2022 04 05 (Tuesday)](#2022-04-05-Tuesday)
+##1. [2022 04 05 Week Challenges(Tuesday)](#2022-04-05-Tuesday)
 	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
 	2. [Is Java compiled or interpreted, or both?](#2-Is-Java-compiled-or-interpreted,-or-both?)
 	3. [Pseudocode currency converter](#3-Pseudocode-currency-converter)
-2. [2022 04 06 (Wednesday)](#2022-04-06-Wednesday)
+##2. [2022 04 06 Week Challenges(Wednesday)](#2022-04-06-Wednesday)
 	1. [Your date of birth in the matrix](#1-Your-date-of-birth-in-the-matrix)
 	2. [MIPS](#2-MIPS)
-3. [2022 04 07 (Thursday)](#2022-04-07-Thursday)
+##3. [2022 04 07 Week Challenges(Thursday)](#2022-04-07-Thursday)
 	1. [Print special numbers](#1-Print-special-numbers)
 	2. [Bad Code](#2-Bad-Code)
 	3. [Bad Code 2](#3-Bad-code-2)
-4. [2022 04 08 (Friday)](#2022-04-08-Friday)
+##4. [2022 04 08 (Friday)](#2022-04-08-Friday)
 
 
- <h2>Week 2</h2>
+# WEEK 2
 
 
-1. [2022 04 18 (Monday)](#2022-04-18-Monday)
+##1. [2022 04 18 Week Challenges(Monday)](#2022-04-18-Monday)
 	1. [Follow the github course](#1-Follow-the-github-course)
 	2. [Create an account in Codewars](#2-Create-an-account-in-Codewars)
 	3. [Read about if...else, for, while, functions](#3-Read-about-if...else,-for,-while,-functions)
-1. [2022 04 19 (Tuesday)](#2022-04-19-Tuesday)
+##2. [2022 04 19 Week Challenges(Tuesday)](#2022-04-19-Tuesday)
 	1. [Multiply exercise](#1-Multiply-Exercise)
 	2. [ASCII Total exercise](#2-ASCII-Total-Exercise)
 	3. [Char From ASCII Value exercise](#3-Char-From-ASCII-Value-Exercise)
 	4. [Binary Addition exercise](#3-Binary-Adittion-Exercise)
 	5. [Student's Final Grade exercise](#3-Student's-Final-Grade-Exercise)
-2. [2022 04 20 (Wednesday)](#2022-04-20-Wednesday)
+##3. [2022 04 20 Week Challenges(Wednesday)](#2022-04-20-Wednesday)
 	1. [Holliday VIII - Duty Free exercise](#1-Holliday-VIII-Duty-Free-Exercise)
 	2. [Twice As Old exercise](#2-Twice-As-Old-Exercise)
 	3. [Valid Spacing exercise](#3-Valid-Spacing-Exercise)
 	4. [Fake Binary exercise](#4-Fake-Binary-Exercise)
-3. [2022 04 21 (Thursday)](#2022-04-21-Thursday)
+##4. [2022 04 21 Week Challenges(Thursday)](#2022-04-21-Thursday)
 	1. [Remove All Exclamation Marks From The End of Sentence exercise](#1-Remove-All-Exclamation-Marks-From-The-End-Of-Sentence-Exercise)
 	2. [Vowel Remover exercise](2-Vowel-Remover-Exercise)
 	3. [Rock Paper Scissors! exercise](#3-Rock-Paper-Scissors!-Exercise)
 	4. [Persistent Bugger exercise](#4-Persistent Bugger-Exercise)
-4. [2022 04 22 (Friday)](#2022-04-22-Friday)
-
-<h2>Week 3</h2>
+##5. [2022 04 22 (Friday)](#2022-04-22-Friday)
 
 
-1. [2022 04 25 (Monday)](#2022-04-25-Monday)
+# WEEK 3
+
+
+1. [2022 04 25 Week Challenges(Monday)](#2022-04-25-Monday)
 	1. [Who likes It exercise?](#1-Who-Likes-It?-exercise)
 	2. [Bit Counting exercise](#2-Bit-Counting-exercise)
 	3. [Your Order, Please exercise](#3-Your-Order,-Please-exercise)
-1. [2022 04 26 (Tuesday)](#2022-04-26-Tuesday)
+1. [2022 04 26 Week Challenges(Tuesday)](#2022-04-26-Tuesday)
 	1. [Simple Pig Latin](#1-Simple-Pig-Latin-exercise)
 	2. [Counting Duplicates exercise](#2-Counting-Duplicates-exercise)
 	3. [Decode The Morse Code exercise](#3-Decode-The-Morse-Code-exercise)
-2. [2022 04 27 (Wednesday)](#2022-04-27-Wednesday)
+2. [2022 04 27 Week Challenges(Wednesday)](#2022-04-27-Wednesday)
 	1. [Valid Parentheses exercise](#1-Valid-Parenthesis-exercise)
 	2. [Convert String To Camel Case exercise](#2-Convert-String-To-Camel-Case-exercise)
 	3. [Unique In Order exercise](#3-Unique-In-Order-exercise)
-3. [2022 04 28 (Thursday)](#2022-04-28-Thursday)
+3. [2022 04 28 Week Challenges(Thursday)](#2022-04-28-Thursday)
 	1. [Fold An Array exercise](#1-Fold-An-Array-exercise)
 	2. [Encrypt This! exercise](#2-Encrypt-This!-exercise)
 	3. [Completing my 1st Core Challenge](#3-Completing-My-1st-Core-Challenge)
 4. [2022 04 29 (Friday)](#2022-04-29-Friday)
 
-# WEEK 1
 
-## 2022 04 05 (Tuesday)
+# WEEK 4
 
-### 1. Interpreted And Compiled Programming Languages
+
+1. [2022 05 02 Week Challenges(Monday)](#2022-05-02-Monday)
+	1. [Learn about for of loop](#1-Who-Likes-It?-exercise)
+	2. [Javascript Array Filter](#2-Bit-Counting-exercise)
+	3. [Javascript Array Reduce](#3-Your-Order,-Please-exercise)
+	4. [Javascript Array Map](#3-Your-Order,-Please-exercise)
+1. [2022 05 03 Week Challenges(Tuesday)](#2022-04-26-Tuesday)
+	1. [Regular Expressions (Regex) Video](#1-Simple-Pig-Latin-exercise)
+	2. [Regular Expressions - MDN](#2-Counting-Duplicates-exercise)
+	3. [Learn about replace Video](#3-Decode-The-Morse-Code-exercise)
+	4. [Read replace - MDN documentation](#3-Decode-The-Morse-Code-exercise)
+2. [2022 05 04 Week Challenges(Wednesday)](#2022-04-27-Wednesday)
+	1. [Simple Validation Of A Username exercise](#1-Valid-Parenthesis-exercise)
+	2. [Get Number From String exercise](#2-Convert-String-To-Camel-Case-exercise)
+3. [2022 05 05 Week Challenges(Thursday)](#2022-04-28-Thursday)
+	1. [String Cleaning exercise](#1-Fold-An-Array-exercise)
+	2. [Password Validation exercise](#2-Encrypt-This!-exercise)
+	3. [Complete your 2nd Core Challenge](#3-Completing-My-1st-Core-Challenge)
+4. [2022 04 29 (Friday)](#2022-04-29-Friday)
+
+
+# WEEK 5
+
+
+1. [2022 05 09 Week Challenges(Monday)](#2022-05-09-Monday)
+	1. [Find The Missing Letter exercise](#1-FInd-The-Missing-Letter-exercise)
+	2. [Reverse Or Rotate? exercise](#2-Reverse-Or-Rotate-exercise)
+1. [2022 05 10 Week Challenges(Tuesday)](#2022-04-10-Tuesday)
+	1. [Check the TypeScript Handbook](#Check-the-TypeScript-Handbook)
+	2. [Read about Type vs interface in TypeScript](#2-Read-about-Type-vs-interface-in-TypeScript)
+	3. [TypeScript Object Type exercise](#3-TypeScript-Object-Type-exercise)
+	4. [TypeScript Unions exercise](#4-TypeScript-Unions-exercise)
+2. [2022 05 11 Week Challenges(Wednesday)](#2022-05-11-Wednesday)
+	1. [Learn about FP vs OOP](#1-Learn-about-FP-vs-OOP)
+	2. [Read about OOP](#2-Read-about-OPP)
+	3. [Learn about Fundamental Concepts of Object Oriented Programming](#3-Learn-about-Fundamental-Concepts-of-Object-Oriented-Programming)
+3. [2022 05 12 Week Challenges(Thursday)](#2022-05-12-Thursday)
+	1. [What's Your Poison? exercise](#1-What's-Your-Poison?-exercise)
+	2. [Array.diff exercise](#2-Array.diff-exercise)
+	3. [Complete your 3rd Core Challenge](#3-Completing-your-3rd-Core-Challenge)
+4. [2022 05 13 (Friday)](#2022-05-13-Friday)
 
 A resume about them:
 
