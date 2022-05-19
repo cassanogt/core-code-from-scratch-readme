@@ -656,5 +656,16 @@ function pigIt(str){
 
 
 
-###Check the everyday types in typescript
+###1. Check the everyday types in typescript
 
+
+###2. Square(n) Sum exercise, using Typescript
+
+
+```Typescript
+export function squareSum(numbers: number[]): number {
+    return numbers.reduce((previous: number, current: number) => previous + Math.pow(current, 2),0);
+}
+```
+
+###Growth Of A Population exercise, using Typescript
