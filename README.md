@@ -654,55 +654,68 @@ function pigIt(str){
 
 ### 3. Completing my 1st Core Challenge.
 
-#WEEK 4
+# WEEK 4
 
 
 ## 2022 05 02 Week Challenges(Monday) 
-###1. Learn about for of loop
-###2. Javascript Array Filter
-###3. Javascript Array Reduce
-###4. Javascript Array Map
+### 1. Learn about for of loop
+### 2. Javascript Array Filter
+### 3. Javascript Array Reduce
+### 4. Javascript Array Map
 
-##2022 05 03 Week Challenges(Tuesday)
-###1. Regular Expressions (Regex) Video
-###2. Regular Expressions – MDN
-###3. Learn about replace Video
-###4. Read replace - MDN documentation
-###5. Check Regexr
-###6. A Complete Regular Expressions
+## 2022 05 03 Week Challenges(Tuesday)
+### 1. Regular Expressions (Regex) Video
+### 2. Regular Expressions – MDN
+### 3. Learn about replace Video
+### 4. Read replace - MDN documentation
+### 5. Check Regexr
+### 6. A Complete Regular Expressions
 
-##2022 05 04 Week Challenges(Wednesday)
-###1. Simple Validation Of A Username exercise.
-###2. Get Number From String exercise
-##2022 05 05 Week Challenges(Thursday)
-###1. String Cleaning exercise
-###2. Password Validation exercise
-###3. Complete your 2nd Core Challenge
-##2022 04 29 (Friday) 
+## 2022 05 04 Week Challenges(Wednesday)
+### 1. Simple Validation Of A Username exercise.
+### 2. Get Number From String exercise
+
+## 2022 05 05 Week Challenges(Thursday)
+### 1. String Cleaning exercise
+### 2. Password Validation exercise
+### 3. Complete your 2nd Core Challenge
+
+## 2022 04 29 (Friday) 
+
 # WEEK 5
-##2022 05 09 Week Challenges(Monday)
-###1. Find The Missing Letter exercise
-###2. Reverse Or Rotate? exercise
-##2022 05 10 Week Challenges(Tuesday)
-###1. Check the TypeScript Handbook
-###2. Read about Type vs interface in TypeScript
-###3. TypeScript Object Type exercise
-###4. TypeScript Unions exercise
-##2022 05 11 Week Challenges(Wednesday)
-###1. Learn about FP vs OOP
-###2. Read about OOP
-###3. Learn about Fundamental Concepts of Object Oriented Programming
-##2022 05 12 Week Challenges(Thursday)
-###1. What's Your Poison? exercise
-###2. Array.diff exercise
-###3. Complete your 3rd Core Challenge
-###4. 2022 05 13 (Friday)
+
+## 2022 05 09 Week Challenges(Monday)
+### 1. Find The Missing Letter exercise
+### 2. Reverse Or Rotate? exercise
+
+## 2022 05 10 Week Challenges(Tuesday)
+
+### 1. Check the TypeScript Handbook
+### 2. Read about Type vs interface in TypeScript
+### 3. TypeScript Object Type exercise
+### 4. TypeScript Unions exercise
+
+## 2022 05 11 Week Challenges(Wednesday)
+
+### 1. Learn about FP vs OOP
+### 2. Read about OOP
+### 3. Learn about Fundamental Concepts of Object Oriented Programming
+
+## 2022 05 12 Week Challenges(Thursday)
+
+### 1. What's Your Poison? exercise
+### 2. Array.diff exercise
+### 3. Complete your 3rd Core Challenge
+
+## 2022 05 13 (Friday)
 
 
 # WEEK 6
-##2022 05 16 Week Challenges(Monday)](#2022-05-16-Monday)
-###1. Check the everyday types in typescript
-###2. Square(n) Sum exercise, using Typescript
+
+## 2022 05 16 Week Challenges(Monday)](#2022-05-16-Monday)
+
+### 1. Check the everyday types in typescript
+### 2. Square(n) Sum exercise, using Typescript
 
 ```Typescript
 export function squareSum(numbers: number[]): number {
@@ -710,27 +723,33 @@ export function squareSum(numbers: number[]): number {
 }
 ```
 
-###3. Growth Of A Population exercise, using Typescript
-###4. Mulbling exercise, using Typescript
-###5. A Wolf In Sheep's Clothing exercise, using Typescript
-##2022 05 17 Week Challenges(Tuesday)
-###1. A Rule Of Divisibility By 13 exercise, using Typescript
-###2. Playing With Digits exercise, using Typescript
-###3. Valid Braces exercise, using Typescript
-###4. Tic-Tac-Toe exercise, using Typescript
-###5. Tic-Tac-Toe Like Table Generator exercise, using Typescript
-##2022 05 18 Week Challenges(Wednesday)](#2022-05-18-Wednesday)
-###1. Duplicate Encoder exercise, using Typescript
-###2. Find The Odd Int exercise, using Typescript
-###3. Which Are In? exercise, using Typescript
-###4. Sums Of Parts exercise, using Typescript
-###5. Consecutive Strings exercise, using Typescript
-##2022 05 19 Week Challenges(Thursday)](#2022-05-19-Thursday)
-###1. Tile exercise, using Typescript
-###2. Time exercise, using Typescript
-###3. Rational exercise, using Typescript
-###4. Complete your 4th Core Challenge
-##2022 05 20 (Friday)
+### 3. Growth Of A Population exercise, using Typescript
+### 4. Mulbling exercise, using Typescript
+### 5. A Wolf In Sheep's Clothing exercise, using Typescript
+
+## 2022 05 17 Week Challenges(Tuesday)
+### 1. A Rule Of Divisibility By 13 exercise, using Typescript
+### 2. Playing With Digits exercise, using Typescript
+### 3. Valid Braces exercise, using Typescript
+### 4. Tic-Tac-Toe exercise, using Typescript
+### 5. Tic-Tac-Toe Like Table Generator exercise, using Typescript
+
+## 2022 05 18 Week Challenges(Wednesday)](#2022-05-18-Wednesday)
+
+### 1. Duplicate Encoder exercise, using Typescript
+### 2. Find The Odd Int exercise, using Typescript
+### 3. Which Are In? exercise, using Typescript
+### 4. Sums Of Parts exercise, using Typescript
+### 5. Consecutive Strings exercise, using Typescript
+
+## 2022 05 19 Week Challenges(Thursday)](#2022-05-19-Thursday)
+
+### 1. Tile exercise, using Typescript
+### 2. Time exercise, using Typescript
+### 3. Rational exercise, using Typescript
+### 4. Complete your 4th Core Challenge
+
+## 2022 05 20 (Friday)
 
 
 
