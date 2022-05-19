@@ -121,7 +121,7 @@
 	1. [Check the everyday types in typescript](#1-Check-The-Everyday-Types-In-Typescript)
 	2. [Square(n) Sum exercise, using Typescript](#2-Square(n)-Sum-Exercise,-Using-Typescript)
 	3. [Growth Of A Population exercise, using Typescript](#3-Growth-Of-A-Population-exercise-using-Typescript)
-	4. [Mulbling exercise, using Typescript](#4-Mulbling-exercise-using-Typescript)
+	4. [Mumbling exercise, using Typescript](#4-Mumbling-exercise-using-Typescript)
 	5. [A Wolf In Sheep's Clothing exercise, using Typescript](#5-A-Wolf-In-Sheep's-Clothing-exercise-using-Typescript)
 1. [2022 05 17 Week Challenges(Tuesday)](#2022-04-17-Tuesday)
 	1. [A Rule Of Divisibility By 13 exercise, using Typescript](#1-A-Rule-Of-Divisibility-By-13-exercise-using-Typescript)
@@ -737,7 +737,7 @@ export class G964 {
 ```
 
 
-### 4. Mulbling exercise, using Typescript
+### 4. Mumbling exercise, using Typescript
 
 ```Typescript
 export function accum(s: string): string { 
@@ -745,7 +745,9 @@ export function accum(s: string): string {
     .toLowerCase().split("").map((letter:string, i:number) => `${letter.toUpperCase()}${letter.repeat(i)}`).join("-");
 };
 ```
+
 ### 5. A Wolf In Sheep's Clothing exercise, using Typescript
+
 
 ## 2022 05 17 Week Challenges(Tuesday)
 ### 1. A Rule Of Divisibility By 13 exercise, using Typescript
