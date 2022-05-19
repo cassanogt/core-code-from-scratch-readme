@@ -111,6 +111,40 @@
 	3. [Complete your 3rd Core Challenge](#3-Completing-your-3rd-Core-Challenge)
 4. [2022 05 13 (Friday)](#2022-05-13-Friday)
 
+
+# WEEK 6
+
+
+1. [2022 05 16 Week Challenges(Monday)](#2022-05-16-Monday)
+	1. [Check the everyday types in typescript](#1-Check-The-Everyday-Types-In-Typescript)
+	2. [Square(n) Sum exercise, using Typescript](#2-Square(n)-Sum-Exercise-Using-Typescript)
+	3. [Growth Of A Population exercise, using Typescript](#3-Growth-Of-A-Population-exercise-using-Typescript)
+	4. [Mulbling exercise, using Typescript](#4-Mulbling-exercise-using-Typescript)
+	5. [A Wolf In Sheep's Clothing exercise, using Typescript](#5-A-Wolf-In-Sheep's-Clothing-exercise-using-Typescript)
+1. [2022 05 17 Week Challenges(Tuesday)](#2022-04-17-Tuesday)
+	1. [A Rule Of Divisibility By 13 exercise, using Typescript](#1-A-Rule-Of-Divisibility-By-13-exercise-using-Typescript)
+	2. [Playing With Digits exercise, using Typescript](#2-Playing-With-Digites-exercise-using-Typescript)
+	3. [Valid Braces exercise, using Typescript](#3-Valid-Braces-exercise-using-Typescript)
+	4. [Tic-Tac-Toe exercise, using Typescript](#4-Tic-Tac-Toe-exercise-using-Typescript)
+	5. [Tic-Tac-Toe Like Table Generator exercise, using Typescript](#5-Tic-Tac-Toe-Like-Table-Generator-exercise-using-Typescript)
+2. [2022 05 18 Week Challenges(Wednesday)](#2022-05-18-Wednesday)
+	1. [Duplicate Encoder exercise, using Typescript](#1-Duplicate-Encoder-exercise-using-Typescript)
+	2. [Find The Odd Int exercise, using Typescript](#2-Find-The-Odd-Int-exercise-using-Typescript)
+	3. [Which Are In? exercise, using Typescript](#3-Wihch-Are-In?-exercise-using-Typescript)
+	4. [Sums Of Parts exercise, using Typescript](#4-Sum-Of-Parts-exercise-using-Typescript)
+	5. [Consecutive Strings exercise, using Typescript](#5-Consecutive-Strings-exercise-using-Typescript)
+3. [2022 05 19 Week Challenges(Thursday)](#2022-05-19-Thursday)
+	1. [Tile exercise, using Typescript](#1-Tile-exercise-using-Typescript)
+	2. [Time exercise, using Typescript](#2-Time-exercise-using-Typescript)
+	3. [Rational exercise, using Typescript](#3-Rational-exercise-using-Typescript)
+	4. [Complete your 4th Core Challenge](#4-Completing-your-4th-Core-Challenge)
+4. [2022 05 20 (Friday)](#2022-05-20-Friday)
+
+
+
+
+### 1. Interpreted And Compiled Programming Languages
+
 A resume about them:
 
 Interpreted Languages run through a program line by line and execute each command. 
