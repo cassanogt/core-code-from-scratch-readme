@@ -715,6 +715,8 @@ function pigIt(str){
 ## 2022 05 16 Week Challenges(Monday)](#2022-05-16-Monday)
 
 ### 1. Check the everyday types in typescript
+
+
 ### 2. Square(n) Sum exercise, using Typescript
 
 ```Typescript
@@ -724,7 +726,25 @@ export function squareSum(numbers: number[]): number {
 ```
 
 ### 3. Growth Of A Population exercise, using Typescript
+
+```Typescript
+export class G964 {
+    public static nbYear = (p0, percent, aug, p) => {
+       for (var index = 0; p0 < p; index++) p0 = parseInt(p0 * (1 + percent /100) + aug); 
+           return index;
+       };
+    }
+```
+
+
 ### 4. Mulbling exercise, using Typescript
+
+```Typescript
+export function accum(s: string): string { 
+    return s
+    .toLowerCase().split("").map((letter:string, i:number) => `${letter.toUpperCase()}${letter.repeat(i)}`).join("-");
+};
+```
 ### 5. A Wolf In Sheep's Clothing exercise, using Typescript
 
 ## 2022 05 17 Week Challenges(Tuesday)
