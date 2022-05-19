@@ -71,22 +71,24 @@
 
 
 1. [2022 05 02 Week Challenges(Monday)](#2022-05-02-Monday)
-	1. [Learn about for of loop](#1-Who-Likes-It?-exercise)
-	2. [Javascript Array Filter](#2-Bit-Counting-exercise)
-	3. [Javascript Array Reduce](#3-Your-Order,-Please-exercise)
-	4. [Javascript Array Map](#3-Your-Order,-Please-exercise)
+	1. [Learn about for of loop](#1-Learn-About-For-Of-Loop)
+	2. [Javascript Array Filter](#2-Javascript-Array-Filter)
+	3. [Javascript Array Reduce](#3-Javascript-Array-Reduce)
+	4. [Javascript Array Map](#4-Javascript-Array-Map)
 1. [2022 05 03 Week Challenges(Tuesday)](#2022-04-26-Tuesday)
-	1. [Regular Expressions (Regex) Video](#1-Simple-Pig-Latin-exercise)
-	2. [Regular Expressions - MDN](#2-Counting-Duplicates-exercise)
-	3. [Learn about replace Video](#3-Decode-The-Morse-Code-exercise)
-	4. [Read replace - MDN documentation](#3-Decode-The-Morse-Code-exercise)
+	1. [Regular Expressions (Regex) Video](#1-Regular-Expressions-(RegEx))
+	2. [Regular Expressions - MDN](#2-Regular-Expressions-MDN)
+	3. [Learn about replace Video](#3-Learn-About-Replace)
+	4. [Read replace - MDN documentation](#4-Read-Replace-MDN)
+	5. [Check Regexr](#5-Check-Regexr)
+	6. [A Complete Regular Expressions](#5-A-Complete-Regular-Expressions)
 2. [2022 05 04 Week Challenges(Wednesday)](#2022-04-27-Wednesday)
-	1. [Simple Validation Of A Username exercise](#1-Valid-Parenthesis-exercise)
-	2. [Get Number From String exercise](#2-Convert-String-To-Camel-Case-exercise)
+	1. [Simple Validation Of A Username exercise](#1-Simple-Validation-Of-A-Username-exercise)
+	2. [Get Number From String exercise](#2-Get-Number-From-String-exercise)
 3. [2022 05 05 Week Challenges(Thursday)](#2022-04-28-Thursday)
-	1. [String Cleaning exercise](#1-Fold-An-Array-exercise)
-	2. [Password Validation exercise](#2-Encrypt-This!-exercise)
-	3. [Complete your 2nd Core Challenge](#3-Completing-My-1st-Core-Challenge)
+	1. [String Cleaning exercise](#1-String-Cleaning-exercise)
+	2. [Password Validation exercise](#2-Password-Validation-exercise)
+	3. [Complete your 2nd Core Challenge](#3-Completing-My-2nd-Core-Challenge)
 4. [2022 04 29 (Friday)](#2022-04-29-Friday)
 
 
@@ -94,7 +96,7 @@
 
 
 1. [2022 05 09 Week Challenges(Monday)](#2022-05-09-Monday)
-	1. [Find The Missing Letter exercise](#1-FInd-The-Missing-Letter-exercise)
+	1. [Find The Missing Letter exercise](#1-Find-The-Missing-Letter-exercise)
 	2. [Reverse Or Rotate? exercise](#2-Reverse-Or-Rotate-exercise)
 1. [2022 05 10 Week Challenges(Tuesday)](#2022-04-10-Tuesday)
 	1. [Check the TypeScript Handbook](#Check-the-TypeScript-Handbook)
@@ -654,4 +656,5 @@ function pigIt(str){
 
 
 
+###Check the everyday types in typescript
 
