@@ -119,7 +119,7 @@
 
 1. [2022 05 16 Week Challenges(Monday)](#2022-05-16-Monday)
 	1. [Check the everyday types in typescript](#1-Check-The-Everyday-Types-In-Typescript)
-	2. [Square(n) Sum exercise, using Typescript](#2-Square(n)-Sum-Exercise-Using-Typescript)
+	2. [Square(n) Sum exercise, using Typescript](#2-Square(n)-Sum-Exercise,-Using-Typescript)
 	3. [Growth Of A Population exercise, using Typescript](#3-Growth-Of-A-Population-exercise-using-Typescript)
 	4. [Mulbling exercise, using Typescript](#4-Mulbling-exercise-using-Typescript)
 	5. [A Wolf In Sheep's Clothing exercise, using Typescript](#5-A-Wolf-In-Sheep's-Clothing-exercise-using-Typescript)
