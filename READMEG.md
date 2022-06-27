@@ -1,5 +1,29 @@
 
-# WEEK 01[WEEK 01]([WEEK 01](https://github.com/cassanogt/core-code-from-scratch-readme/blob/main/Week%2001/README.md))
+#[WEEK 01](https://github.com/cassanogt/core-code-from-scratch-readme/blob/main/Week%2001/README01.md)
+
+### Week challenges (Tuesday) 💻
+
+  Base on this reading and this video, create an explanation about Interpreted And Compiled Programming Languages in your README
+
+  Is Java compiled or interpreted, or both?, check the sources and answer the question in your README
+
+  Pseudocode Currency Converter exercise
+
+  Learn about High and Low level languages
+
+### Week challenges (Wednesday) 💻
+
+  Your date of birth in the matrix? exercise
+  MIPS exercise
+
+### Week challenges (Thursday) 💻
+
+  Print special numbers exercise
+  Bad Code exercise
+  Bad Code 2 exercise
+  Follow Git Course
+
+
 
 1. [2022 04 05 Week Challenges(Tuesday)](#2022-04-05-Week-Challenges-Tuesday)
 	1. [Interpreted And Compiled Programming Languages](#1-Interpreted-And-Compiled-Programming-Languages)
