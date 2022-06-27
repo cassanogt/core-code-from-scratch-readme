@@ -4,7 +4,7 @@
   
 <h2>INDEX</h2>
 
-# [WEEK 01]([#WEEK 01](https://github.com/cassanogt/core-code-from-scratch-readme/tree/main/Week%2001))
+# ([#WEEK 01](https://github.com/cassanogt/core-code-from-scratch-readme/tree/main/Week%2001))
 
 ### Week challenges (Tuesday) 💻
 
